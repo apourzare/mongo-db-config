@@ -12,6 +12,7 @@ run this command:
 `mongosh -u <username> -p <password> --authenticationDatabase admin`
 <br>
 or
+<br>
 `mongosh -u <username> -p <password>`
 <br>
 or
