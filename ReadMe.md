@@ -32,3 +32,7 @@ set permissions for user
 `use admin`
 <br>
 `db.grantRolesToUser('<username>', [{ role: 'root', db: 'admin' }])`
+
+### For use connection string
+`mongodb://<USERNAME>:<PASSWORD>@<IP_ADDRESS>:<PORT>/<DATABASE_NAME>?authSource=admin`
+<br>
